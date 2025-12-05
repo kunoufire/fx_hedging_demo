@@ -1193,11 +1193,11 @@ See `requirements.txt` for full dependency list.
 
 ## Version History
 
-- **v2.7.0** (2024-12) - Enhanced strategy output with StrategyRecommendation, lazy carry_quantiles
-- **v2.6.0** (2024-11) - Default tenor support in strategies
-- **v2.5.0** (2024-10) - Strategy Pattern implementation, HedgingStrategy ABC
-- **v2.0.0** (2024-09) - HedgeManager and multi-currency portfolio
-- **v1.0.0** (2024-06) - Initial release with ForwardCurve
+- **v2.7.0**  - Enhanced strategy output with StrategyRecommendation, lazy carry_quantiles
+- **v2.6.0**  - Default tenor support in strategies
+- **v2.5.0**  - Strategy Pattern implementation, HedgingStrategy ABC
+- **v2.0.0**  - HedgeManager and multi-currency portfolio
+- **v1.0.0**  - Initial release with ForwardCurve
 
 ---
 
@@ -1209,6 +1209,6 @@ Internal use only.
 
 ## Author
 
-Institutional Portfolio Management Framework
+kunoufire@gmail.com
 
 For questions or contributions, please contact the repository owner.
